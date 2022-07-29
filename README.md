@@ -34,3 +34,4 @@ Not an endorsement
 - [BanklessDAO](https://twitter.com/banklessDAO)
 - [Decentraland](https://twitter.com/decentraland)
 - [Optimism](https://twitter.com/optimismFND)
+- [QiDAO](https://twitter.com/QiDaoProtocol)
