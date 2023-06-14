@@ -5,6 +5,7 @@ Not an endorsement
 ```
 
 - [DeveloperDAO](https://twitter.com/developer_dao)
+- [EthernautDAO](https://twitter.com/EthernautDAO)
 - [FiatDAO](https://twitter.com/fiatdao)
 - [PrimeDAO](https://twitter.com/PrimeDAO_)
 - [CharlieDAO](https://twitter.com/charliedao_eth)
